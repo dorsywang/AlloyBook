@@ -24,3 +24,10 @@ fork本项目，然后将翻译后的文章提交到works目录，文件名和�
 
 ### Alloy Universal Team组织成员
 
+|name   |avatars   |company   |
+|---|---|---|
+|  [dorsywang](https://github.com/dorsywang) |  ![](https://avatars0.githubusercontent.com/u/7475208?v=3&s=60)  |  Tencent |  
+|  [Johnny Kwok](https://github.com/biqing) |  ![](https://avatars2.githubusercontent.com/u/1025117?v=3&s=60)  |  Tencent |  
+|  [问题石](https://github.com/shixy) |  ![](https://avatars3.githubusercontent.com/u/1018915?v=3&s=60)  |  Tencent |  
+|  [ly6325623](https://github.com/ly6325623) |  ![](https://avatars2.githubusercontent.com/u/568508?v=3&s=60)  | Tencent  |  
+
